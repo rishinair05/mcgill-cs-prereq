@@ -1,5 +1,7 @@
 # Prerequisite Graph for McGill Computer Science Courses
 
+<img src="Prereq_Graph.png" alt="McGill CS courses" class="center" height=500>
+
 This is a simple utility that uses pyvis to visualize the prerequisites of McGill CS courses as a directed graph. This app is available at <a href="https://huggingface.co/spaces/rishinair05/mcgill-computer-science-prerequisite-visualization"> https://huggingface.co/spaces/rishinair05/mcgill-computer-science-prerequisite-visualization</a>
 
 A white line denotes an essential prerequisite. e.g., A white line connects COMP 250 to COMP 302, meaning that COMP 250 is an essential prerequisite.
