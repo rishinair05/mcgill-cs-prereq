@@ -1,6 +1,6 @@
 # Prerequisite Graph for McGill Computer Science Courses
 
-<img src="Prereq_Graph.png" alt="McGill CS courses" class="center" width=500>
+<img src="Prereq_Graph.png" alt="McGill CS courses" class="center" width=100%>
 
 This is a simple utility that uses pyvis to visualize the prerequisites of McGill CS courses as a directed graph. This app is available at <a href="https://huggingface.co/spaces/rishinair05/mcgill-computer-science-prerequisite-visualization"> https://huggingface.co/spaces/rishinair05/mcgill-computer-science-prerequisite-visualization</a>
 
